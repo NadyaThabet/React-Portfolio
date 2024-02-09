@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.contact {
+  color: rgb(44, 62, 80);
+  padding-bottom: 20em;
+  padding-top: 8em;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: rgb(44, 62, 80);
+}
+
+.send {
+  background-color: #1abc9c !important;
+}
+
+.label {
+  color: #1abc9c;
+  margin-bottom: 7px;
+  transition: 0.6s top;
+}
+
+.top {
+  top: 40px !important;
+}
+
+.inpt:focus {
+  box-shadow: none !important;
+}

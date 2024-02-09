@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.home {
+  background-color: #1abc9c;
+  padding-bottom: 11em;
+  padding-top: 12.5em;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+}
